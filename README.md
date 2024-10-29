@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @srisai-ch
-- 👀 I’m interested in Digital Designs 
+- 👀 I’m interested in Digital Designs and Verification
 - 🌱 I’m currently learning UVM
 - 💞️ I’m looking to collaborate on RTL projects
 - 📫 How to reach me through email: cherukuri.srisai@outlook.com
